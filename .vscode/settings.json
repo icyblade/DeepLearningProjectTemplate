@@ -1,0 +1,12 @@
+{
+    "files.exclude": {
+        "**/.pytest_cache": true,
+        "**/__pycache__": true,
+        "**/.mypy_cache": true,
+        "**/.coverage": true
+    },
+    "python.testing.pyTestArgs": [],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pyTestEnabled": true
+}
